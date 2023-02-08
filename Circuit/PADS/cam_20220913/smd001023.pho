@@ -1,0 +1,114 @@
+*
+*
+G04 PADS VX.2 Build Number: 5060570 generated Gerber (RS-274-X) file*
+G04 PC Version=2.1*
+*
+%IN "20220803_3_copper_2.pcb"*%
+*
+%MOIN*%
+*
+%FSLAX35Y35*%
+*
+*
+*
+*
+G04 PC Standard Apertures*
+*
+*
+G04 Thermal Relief Aperture macro.*
+%AMTER*
+1,1,$1,0,0*
+1,0,$1-$2,0,0*
+21,0,$3,$4,0,0,45*
+21,0,$3,$4,0,0,135*
+%
+*
+*
+G04 Annular Aperture macro.*
+%AMANN*
+1,1,$1,0,0*
+1,0,$2,0,0*
+%
+*
+*
+G04 Odd Aperture macro.*
+%AMODD*
+1,1,$1,0,0*
+1,0,$1-0.005,0,0*
+%
+*
+*
+G04 PC Custom Aperture Macros*
+*
+*
+*
+*
+*
+*
+G04 PC Aperture Table*
+*
+%ADD010C,0.001*%
+%ADD011R,0.042X0.1*%
+%ADD012R,0.425X0.33071*%
+%ADD015R,0.07874X0.06693*%
+%ADD017R,0.03937X0.05118*%
+%ADD024C,0.01*%
+*
+*
+*
+*
+G04 PC Circuitry*
+G04 Layer Name 20220803_3_copper_2.pcb - circuitry*
+%LPD*%
+*
+*
+G04 PC Custom Flashes*
+G04 Layer Name 20220803_3_copper_2.pcb - flashes*
+%LPD*%
+*
+*
+G04 PC Circuitry*
+G04 Layer Name 20220803_3_copper_2.pcb - circuitry*
+%LPD*%
+*
+G54D10*
+G54D11*
+G01X354025Y193125D03*
+X347325D03*
+X340625D03*
+X333925D03*
+X327225D03*
+G54D12*
+X340625Y155999D03*
+G54D15*
+X291501Y121250D03*
+X307249D03*
+G54D17*
+X140207Y320000D03*
+X147293D03*
+X158957D03*
+X166043D03*
+X178509Y310034D03*
+X185595D03*
+X198194D03*
+X205281D03*
+X217879D03*
+X224966D03*
+X217254Y319473D03*
+X224341D03*
+X177884D03*
+X184970D03*
+X197569D03*
+X204656D03*
+X237564Y310034D03*
+X244651D03*
+X236939Y319473D03*
+X244026D03*
+G54D24*
+X100000Y100000D02*
+Y336220D01*
+X414961*
+Y100000*
+X100000*
+X0Y0D02*
+M02*
